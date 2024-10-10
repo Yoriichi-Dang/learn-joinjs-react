@@ -10,7 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.10.2",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
     "@joint/core": "^4.0.4",
+    "framer-motion": "^11.11.7",
     "joinjs": "^0.1.1",
     "joinjs-plus": "file:joint-plus.tgz",
     "react": "^18.3.1",
